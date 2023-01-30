@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Asanbekov_3_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing" />
+    <string name="talk_me_down" />
+    <string name="blue_neighbourhood" />
+    <string name="test" />
+    <string name="_1" />
+    <string name="blank_space" />
+    <string name="taylor_swift" />
+    <string name="_3_22" />
+</resources>
