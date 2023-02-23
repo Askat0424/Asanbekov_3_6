@@ -31,16 +31,16 @@ class MusicFragment : Fragment(), OnItemClick {
 
     private fun loadData() {
         musicList = ArrayList()
-        musicList.add(Music("Blank Space", "Taylor Swift", 322))
-        musicList.add(Music("Watch Me", "Silento", 536))
-        musicList.add(Music("Earned It", "The Weekend", 451))
-        musicList.add(Music("The Hills", "The Weekend", 341))
-        musicList.add(Music("Writing’s On The Wall", "The Hils", 533))
-        musicList.add(Music("Blank Space", "Taylor Swift", 322))
-        musicList.add(Music("Watch Me", "Silento", 536))
-        musicList.add(Music("Earned It", "The Weekend", 451))
-        musicList.add(Music("The Hills", "The Weekend", 341))
-        musicList.add(Music("Writing’s On The Wall", "The Hils", 533))
+        musicList.add(Music("Мирбек Атабеков", "Кечки Бишкек", 133))
+        musicList.add(Music("Нурмат Садыров", "Торгоюм", 156))
+        musicList.add(Music("Арсен", "Тагдырын мага жазганда ", 149))
+        musicList.add(Music("Айыма", "Заблокируй", 112))
+        musicList.add(Music("Бегиш", "Бейбижан", 198))
+        musicList.add(Music("Бекжан Темирхан", "Кантем", 176))
+        musicList.add(Music("Толгонай Арзыкеева", "Махабат", 191))
+        musicList.add(Music("Чолпон Талипбек", "Копологум", 165))
+        musicList.add(Music("Айтурган Эрмекова", "Сенсиз", 155))
+        musicList.add(Music("Нурила", "Кереметим", 147))
 
     }
 
